@@ -604,3 +604,6 @@
   text-align: center;
   padding-bottom: 10px;
 }
+.img_content{
+  background-size: cover;
+}

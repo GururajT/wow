@@ -15,7 +15,7 @@ function Events() {
             
                 <Carousel>
                         <Carousel.Item>
-                            <img src={events1}/>
+                            <img class="img_content"src={events1}/>
                                 <Carousel.Caption>
                                     <h3>Family Parties</h3>
                                     <p>A Perfect Destination for family and cultural gathering and Parties .</p>
